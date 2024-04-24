@@ -14,10 +14,9 @@
 ```javascript
 const sandesh = {
   pronouns: "he" | "him",
-  code: [Java, JavaScript, HTML/CSS, C, SQL],
+  code: [Java, Python, JavaScript, SQL, C, HTML/CSS],
   frameworks: [React, SpringBoot],
-  tools: [Git, VS Code, Visual Studio, IntelliJ, Eclipse],
-  challenge: "I am solving >= 2 leetcode mediums daily"
+  tools: [Git, VS Code, Vim, IntelliJ, Eclipse]
 }
 ```
 <!-- ![](https://leetcard.jacoblin.cool/sandeshShahapur?ext=heatmap) -->
