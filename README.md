@@ -11,12 +11,13 @@
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JscHI4cWJ4Z21qMDMzMTk5eWZoa2NpaTJnNXhwYzkxOTY1d2J0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YtjHeLuD33aS4aIK2I/giphy.gif" width="45" style="margin-bottom: 0;"> A little more about me...
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBycXJibHlyYjlkbXNvcTRydjU3OTNvbm9oN3ZwZmJydmR4ZmMyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZJlITzwzQAw8vEzZhG/giphy.gif" width="227">
 
-```javascript
-const sandesh = {
-  pronouns: "he" | "him",
-  code: [Java, Python, JavaScript, SQL, C, HTML/CSS],
-  frameworks: [React, SpringBoot],
-  tools: [Git, VS Code, Vim, IntelliJ, Eclipse]
+```json
+{
+  "name": "Sandesh",
+  "pronouns": "he / him",
+  "code": ["Java", "Python", "JavaScript", "SQL (Postgres)", "C", "HTML/CSS"],
+  "frameworks": ["React", "SpringBoot"],
+  "tools": ["Git", "VS Code", "Vim", "IntelliJ", "Eclipse"]
 }
 ```
 <!-- ![](https://leetcard.jacoblin.cool/sandeshShahapur?ext=heatmap) -->
