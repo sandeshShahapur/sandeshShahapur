@@ -15,9 +15,9 @@
 {
   "name": "Sandesh",
   "pronouns": "he / him",
-  "code": ["Java", "Python", "JavaScript", "SQL (Postgres)", "C", "HTML/CSS"],
-  "frameworks": ["React", "SpringBoot"],
-  "tools": ["Git", "VS Code", "Vim", "IntelliJ", "Eclipse"]
+  "code": ["Java", "JavaScript", "SQL(Postgres)", "Redis", "Python"],
+  "frameworks_libraries": ["SpringBoot", "Express.js", "React.js", "SpringBoot", "Tailwind/Bootstrap"],
+  "tools": ["Git", "Postman", "VS Code", "IntelliJ", "Maven"]
 }
 ```
 <!-- ![](https://leetcard.jacoblin.cool/sandeshShahapur?ext=heatmap) -->
